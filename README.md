@@ -27,7 +27,7 @@
 ## 🧠 Competitive Programming
 
 - 🔥 **Codeforces Specialist (1482)**  
-- ⭐ **CodeChef 3★ (1679)**  
+- ⭐ **CodeChef 4★ (1845)**  
 - 🏆 **ICPC 2025 Rank 819 / 36K+ participants**  
 - 📈 Solved **500+ DSA problems** across platforms  
 - ⚡ Strong in **DP, Graphs, Trees, Number Theory, Optimization**
