@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://codeforces.com">
-    <img src="https://img.shields.io/badge/Codeforces-shiv2500-blue?style=for-the-badge&logo=codeforces"/>
+    
   </a>
 </p>
 
