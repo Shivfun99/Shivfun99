@@ -28,7 +28,7 @@
 
 - 🔥 **Codeforces Specialist (1482)**  
 - ⭐ **CodeChef 4★ (1845)**  
-- 🏆 **ICPC 2025 Rank 819 / 36K+ participants**  
+- 🏆 **icpc huawei winter challenge 2025 Rank 819 / 36K+ participants**  
 - 📈 Solved **500+ DSA problems** across platforms  
 - ⚡ Strong in **DP, Graphs, Trees, Number Theory, Optimization**
 
