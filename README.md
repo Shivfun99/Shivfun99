@@ -1,133 +1,159 @@
-<h1 align="center">Hi 👋, I'm Shiv Kumar Mishra</h1>
-<h3 align="center">Competitive Programmer | Systems & Performance Engineer ⚡</h3>
+# Hi, I'm Shiv Kumar Mishra 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shivfun99&label=Profile%20Views&color=blueviolet&style=flat" />
-  <img src="https://img.shields.io/github/followers/Shivfun99?label=Followers&style=flat&color=blue" />
-</p>
+I'm a Computer Science student at VIT-AP who enjoys building things that are fast, efficient, and technically challenging.
 
-<p align="center">
-  <a href="https://codeforces.com">
-    
-  </a>
-</p>
+Most of my time goes into three areas:
+
+* Competitive Programming
+* Systems Programming
+* Performance Engineering
+
+I love understanding how software works beneath the surface — from memory management and operating systems to low-latency packet processing and backend infrastructure.
 
 ---
 
-## 🚀 About Me
+## What I'm Currently Working On
 
-- 🎓 B.Tech CSE (AI & ML) at **VIT-AP**
-- 🧠 Competitive Programmer (**Codeforces Specialist**)
-- ⚙️ Focused on **Scalable Systems, OS-level Engineering & Performance**
-- 🚀 Strong in **C++, Low-Level Optimization & Efficient Code Design**
-- 🏗️ Exploring **Distributed Systems & Backend Architecture**
+⚡ Building systems projects in C++ and Linux
 
----
+📚 Learning more about operating systems, networking, distributed systems, and performance optimization
 
-## 🧠 Competitive Programming
+🏆 Preparing for ICPC, coding contests, and software engineering interviews
 
-- 🔥 **Codeforces Specialist (1482)**  
-- ⭐ **CodeChef 4★ (1845)**  
-- 🏆 **icpc huawei winter challenge 2025 Rank 819 / 36K+ participants**  
-- 📈 Solved **500+ DSA problems** across platforms  
-- ⚡ Strong in **DP, Graphs, Trees, Number Theory, Optimization**
+🚀 Exploring low-latency systems inspired by HFT infrastructure
 
 ---
 
-## 📌 Project Showcase
+## Competitive Programming
 
-### ⚡ 1. Memopt++ – Adaptive Linux Memory Governor
-- Built a **Linux system daemon in C++17** to manage memory pressure dynamically  
-- Used **cgroups v2, ZRAM compression, Kernel Same-page Merging (KSM)**  
-- Implemented **real-time monitoring via `/proc/meminfo` across 50+ processes**  
-- Designed **adaptive modes (Normal → Emergency)** for optimal memory allocation  
-- Distributed via **custom APT repository for Ubuntu/Debian**  
+I started competitive programming out of curiosity and quickly got addicted to the problem-solving process.
 
-**Tech:** C++17, Linux Kernel, System Programming, Memory Optimization  
+**Highlights**
 
-👉 This is a **high-impact systems project (VERY strong for recruiters)** :contentReference[oaicite:0]{index=0}  
+* Codeforces Specialist (Max Rating: 1482)
+* CodeChef 4★ (Max Rating: 1845)
+* ICPC Huawei Winter Challenge 2025 — Rank 819 / 36,000+
+* 500+ DSA problems solved across platforms
 
----
+Some of my favorite topics are:
 
-### 🧠 2. AI Doctor – Multimodal Medical AI Assistant
-- Built AI system combining **Computer Vision + NLP**  
-- Processes **medical images + text queries** for diagnostic insights  
-- Added **voice interaction using speech recognition APIs**  
-- Designed pipeline integrating **ML models + real-time inference**
-
-**Tech:** Python, CV, NLP, Machine Learning  
+* Dynamic Programming
+* Graph Algorithms
+* Trees
+* Number Theory
+* Greedy Optimization
 
 ---
 
-### 🌐 3. GSoC GitHub Finder – Chrome Extension
-- Built **Chrome Extension (Manifest V3)** for gsocorganizations.dev  
-- Extracts **GitHub repos for 400+ open-source orgs dynamically**  
-- Implemented **DOM inspection + event delegation (SPA handling)**  
-- Reduced repo discovery time by **60%**
+## Projects I'm Proud Of
 
-**Tech:** JavaScript, Chrome APIs, DOM Manipulation  
+### ⚡ Memopt++
 
----
+An adaptive Linux memory governor written in C++.
 
-### 🔐 4. ZK Private Share Verifier (DeFi)
-- Built **privacy-preserving system using zk-SNARKs (Groth16)**  
-- Designed **Circom circuits + proof generation using snarkjs**  
-- Implemented **Solidity smart contracts for verification**  
-- Built **full-stack app (React + Node.js backend)**  
+Instead of waiting for the system to run out of memory, Memopt++ proactively manages memory pressure using:
 
-**Tech:** Solidity, Circom, React, Node.js  
+* cgroups v2
+* ZRAM compression
+* KSM deduplication
+
+The goal is simple: keep Linux systems responsive under heavy workloads.
+
+**Tech:** C++17, Linux, System Programming, Memory Management
 
 ---
 
-## ⚙️ Core Skills
+### 📈 PulseBook
 
-- 🚀 **C++ (Advanced + STL + Optimization)**
-- ⚡ **Low-Level & System Programming**
-- 🧠 **Algorithm Design & Competitive Programming**
-- 🏗️ **Scalable Backend & System Design**
-- 🔄 **Performance Engineering**
+A C++20 low-latency trading packet processor inspired by real trading system architectures.
 
----
+It processes binary market-data packets, updates an in-memory L2 order book, runs trading logic, performs risk checks, and generates outbound order packets through DPDK-style networking paths.
 
-## 🛠️ Tech Stack
+What I learned while building it:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,linux,git,github" />
-</p>
+* DPDK fundamentals
+* Packet processing
+* Order book design
+* Latency-aware engineering
+* Performance benchmarking
 
----
+Verified application-side latency benchmarks reached sub-microsecond levels in controlled environments.
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivfun99&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivfun99&theme=tokyonight" height="180"/>
-</p>
+**Tech:** C++20, DPDK, Linux Networking, Performance Engineering
 
 ---
 
-## 🌍 Connect With Me
+### 🧠 AI Doctor
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shiv-kumar-mishra-75630427a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:shivkumarmishra718@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+A multimodal AI assistant capable of processing medical images, text queries, and voice interactions.
+
+Built to explore the intersection of Computer Vision, NLP, and real-time AI systems.
+
+**Tech:** Python, Machine Learning, Computer Vision, NLP
 
 ---
 
-## 🏆 Focus Areas
+### 🌐 GSoC GitHub Finder
 
-- ⚡ Competitive Programming  
-- 🏗️ Systems & OS-Level Engineering  
-- 🚀 Performance Optimization  
-- 💻 Backend & Distributed Systems  
+A Chrome Extension that helps contributors quickly discover GitHub repositories for open-source organizations participating in Google Summer of Code.
+
+Reduced repository discovery time significantly by automating the search process.
+
+**Tech:** JavaScript, Chrome APIs, DOM Manipulation
 
 ---
 
-<p align="center">
-  <b>“Optimize everything. Scale what matters.”</b> ⚡
-</p>
+### 🔐 ZK Private Share Verifier
+
+A privacy-focused application built using zero-knowledge proofs.
+
+Implemented zk-SNARK circuits and on-chain verification to explore privacy-preserving blockchain systems.
+
+**Tech:** Solidity, Circom, React, Node.js
+
+---
+
+## Technologies I Enjoy
+
+**Languages**
+
+C++, Python, JavaScript, Solidity
+
+**Areas**
+
+* Systems Programming
+* Operating Systems
+* Networking
+* Backend Engineering
+* Distributed Systems
+* Performance Optimization
+
+**Tools**
+
+Linux, Git, Docker, CMake, DPDK, Node.js, React
+
+---
+
+## Beyond Coding
+
+When I'm not building projects, you'll probably find me:
+
+* Solving Codeforces contests
+* Reading about operating systems and networking
+* Exploring low-latency trading systems
+* Learning how large-scale backend systems work
+* Breaking things and figuring out why they broke
+
+---
+
+## Connect With Me
+
+💼 LinkedIn: linkedin.com/in/shiv-kumar-mishra-75630427a
+
+💻 GitHub: github.com/Shivfun99
+
+📫 Always open to discussions about systems, performance engineering, open source, and interesting projects.
+
+---
+
+> "Optimize what matters. Understand how it works. Then build it better."
