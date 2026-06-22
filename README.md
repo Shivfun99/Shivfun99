@@ -30,7 +30,7 @@ I started competitive programming out of curiosity and quickly got addicted to t
 
 **Highlights**
 
-* Codeforces Specialist (Max Rating: 1482)
+* Codeforces Specialist (Max Rating: 1525)
 * CodeChef 4★ (Max Rating: 1845)
 * ICPC Huawei Winter Challenge 2025 — Rank 819 / 36,000+
 * 500+ DSA problems solved across platforms
