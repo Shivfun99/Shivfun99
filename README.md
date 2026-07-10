@@ -1,7 +1,47 @@
-<!-- Banner -->
-<p align="center">
-  <img src="assets/profile-ascii.png" alt="ASCII Banner" width="100%">
-</p>
+```text
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@%%%%%%%%%%@@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@%%#******+++++****###%%%@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%@@%%%*+----=+++++===++++++++++**#%%%@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%@@%%##*==----=++++++++++++++++++++++**##%%@@%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%@@%#***+--::---=======++++********++++******#%@@%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%#***++==--::::------==++*******************+++*%@@%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%@%#++++=-----:....::--=+++*##%##**++++++***++++++++*%@%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%*+=-----=--:....:=#%##*##%@@%%%#*+=++++++====+++==+#%@%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%#*=-----------:..:*%%%%#%@@@@@@%%%%#+++++=----==++++++*%@%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%@%##*+----:::::------*%@%%%@@@@@@@@@@%%%#+====-::-==+++++***%@%%%%%%%%%%%%%%%%
+%%%%%%%%%%%@####*=-:::::::--==++*%@@@@@%%%#%@@@@@@@@%%*+==----==+++++****#@%%%%%%%%%%%%%%%
+%%%%%%%%%%@#*###+-:::::-------+#%@@@@#*+====+**%@@@@@%#**=-===++++=====+++#@%%%%%%%%%%%%%%
+%%%%%%%%%@%*####+-:::---------=%@@@@*===-----==+*%@@@%%%#+====-----::::---=%@%%%%%%%%%%%%%
+%%%%%%%%%%######+=--------====-*@@@#===--------==+*#@@@@%++=-:....::::::---+@%%%%%%%%%%%%%
+%%%%%%%%@#+*####*==--=========-+%@%+=+***+==-======+@@@@*+==-:....::-------=%@%%%%%%%%%%%%
+%%%%%%%%@+-=*###+=----======----*%+-+*#%%#*==*###*+*@@%+-=+=---::::------===*@%%%%%%%%%%%%
+%%%%%%%%%-.:+###*=---=======---==+---=++++=:-*###*+=%#-::-++=-----------=+++*%%%%%%%%%%%%%
+%%%%%%%@%:.:=*##*+==========---==+---::---:::-----:-*=--=+++==--==--:::-==+++%%%%%%%%%%%%%
+%%%%%%%@%-:-+*##*+====--========-========*+++=--::--==+++*+=---=---:::::----=%%%%%%%%%%%%%
+%%%%%%%%%=-=+*##*+====================**+****+====---=++***=------:::::-::..=@%%%%%%%%%%%%
+%%%%%%%%@*=+**##*++===============*+=++++++++*#+====---=+**+=-::::::::...::.+@%%%%%%%%%%%%
+%%%%%%%%@%++**##*++++++===---=====+#**+==+*+==+++*+::::--+*+=-::::::......::#@%%%%%%%%%%%%
+%%%%%%%%%@*+***#**+++++===---------+#%%#*++=+*###*:::::--=++==-::.........:+@%%%%%%%%%%%%%
+%%%%%%%%%@%+*********++++=======---=+*#%%%%%%%%#+::::----=+*+=-:..........:%@%%%%%%%%%%%%%
+%%%%%%%%%%@#*******++++++++++++=+--==++***##***+=.:+-::--=**+=--:::::::...*@%%%%%%%%%%%%%%
+%%%%%%%%%%%@#*****+++++**++++*+**.:+==+++**++++-. .**+=--=++========---::*@%%%%%%%%%%%%%%%
+%%%%%%%%%%%%@%*****+++*****####%+..-*++++++++=:.. :###****+++=========--#@%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%@%#********#%%####%=..:=*++++++-. .. +%#*###%##*+=--::---=#@%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%@%#***###%%%%%#%%%:.==:-*+++-::::...*%####%#%%##**+==--*%@%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%@%###%%%%%%%%%%%-----:=++-::::--:-%##%%%%##%%#######%@%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%@%%%%%%%%%%%%%%-...:::-=:::::::.=%##%%%#########%%@@%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#:.......:........+%##%%%%%####%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#:...............:#%#####%%#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#:...............-%##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#*+==--::::::--+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@%%%%%%%%@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+```
 
 <h1 align="center">Hi 👋, I'm Shiv Kumar Mishra</h1>
 
@@ -10,14 +50,14 @@ Computer Science Student • Systems Programmer • Competitive Programmer • P
 </h3>
 
 <p align="center">
-I enjoy building software that is <b>fast</b>, <b>efficient</b>, and technically challenging.
+I enjoy building software that is fast, efficient, and technically challenging.
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm a Computer Science student at **VIT-AP** passionate about understanding software beneath the surface.
+I'm a Computer Science student at **VIT-AP** passionate about understanding how software works beneath the surface.
 
 Most of my time goes into:
 
@@ -31,17 +71,17 @@ I enjoy exploring:
 - Operating Systems
 - Linux Internals
 - Low-Latency Networking
-- Backend Infrastructure
 - Distributed Systems
+- Backend Infrastructure
 
 ---
 
-## 🔥 Currently Working On
+# 🔥 Currently Working On
 
-- ⚡ Building systems projects in **Modern C++ & Linux**
+- ⚡ Building systems projects in Modern C++ and Linux
 - 📚 Learning Operating Systems, Networking, Distributed Systems and Performance Engineering
-- 🏆 Preparing for **ICPC**, Codeforces contests and Software Engineering interviews
-- 🚀 Exploring **low-latency architectures** inspired by HFT systems
+- 🏆 Preparing for ICPC, Codeforces contests and Software Engineering interviews
+- 🚀 Exploring low-latency architectures inspired by HFT systems
 
 ---
 
@@ -49,13 +89,12 @@ I enjoy exploring:
 
 I started competitive programming out of curiosity and quickly became addicted to solving problems.
 
-### Highlights
+## Highlights
 
 - 🟦 Codeforces Specialist (**Max Rating: 1525**)
 - ⭐ CodeChef 4★ (**Max Rating: 1845**)
-- 🏅 ICPC Huawei Winter Challenge 2025
-  - Rank **819 / 36,000+**
-- ✅ Solved **500+ DSA problems**
+- 🏅 ICPC Huawei Winter Challenge 2025 — **Rank 819 / 36,000+**
+- 💯 Solved **500+ DSA Problems**
 
 ### Favorite Topics
 
@@ -79,7 +118,7 @@ Instead of waiting until memory is exhausted, Memopt++ proactively reduces memor
 - ZRAM Compression
 - KSM Deduplication
 
-### Tech
+**Tech**
 
 `C++17` • `Linux` • `Memory Management` • `System Programming`
 
@@ -87,17 +126,17 @@ Instead of waiting until memory is exhausted, Memopt++ proactively reduces memor
 
 ## 📈 PulseBook
 
-A **C++20 low-latency trading packet processor** inspired by modern exchange architectures.
+A C++20 low-latency trading packet processor inspired by modern exchange architectures.
 
-Features:
+### Features
 
-- Binary market data packet parsing
+- Binary Market Data Parsing
 - L2 Order Book
 - Trading Signal Engine
 - Risk Checks
 - Order Generation
-- DPDK-style networking pipeline
-- Performance benchmarking
+- DPDK-style Networking Pipeline
+- Performance Benchmarking
 
 ### What I Learned
 
@@ -109,12 +148,11 @@ Features:
 
 Verified **sub-microsecond application-side latency** in controlled environments.
 
-### Tech
+**Tech**
 
 `C++20` • `Linux` • `DPDK` • `Networking`
 
 ---
-
 ## 🧠 AI Doctor
 
 A multimodal AI assistant capable of processing:
@@ -126,10 +164,10 @@ A multimodal AI assistant capable of processing:
 Built to explore the intersection of:
 
 - Computer Vision
-- NLP
+- Natural Language Processing
 - Real-time AI Systems
 
-### Tech
+**Tech**
 
 `Python` • `Machine Learning` • `Computer Vision` • `NLP`
 
@@ -137,7 +175,7 @@ Built to explore the intersection of:
 
 ## 🌐 GSoC GitHub Finder
 
-Chrome Extension that helps contributors quickly discover GitHub repositories of organizations participating in Google Summer of Code.
+A Chrome Extension that helps contributors quickly discover GitHub repositories of organizations participating in Google Summer of Code.
 
 ### Features
 
@@ -145,83 +183,88 @@ Chrome Extension that helps contributors quickly discover GitHub repositories of
 - Automated GitHub search
 - Improved contributor workflow
 
-### Tech
+**Tech**
 
-`JavaScript` • `Chrome APIs` • `DOM`
+`JavaScript` • `Chrome APIs` • `DOM Manipulation`
 
 ---
 
 ## 🔐 ZK Private Share Verifier
 
-Privacy-preserving application using Zero-Knowledge Proofs.
+A privacy-focused application built using Zero-Knowledge Proofs.
 
 Implemented:
 
 - zk-SNARK Circuits
 - On-chain Verification
-- Privacy-focused Architecture
+- Privacy-preserving Architecture
 
-### Tech
+**Tech**
 
 `Solidity` • `Circom` • `React` • `Node.js`
 
 ---
 
-# 💻 Technologies
+# 💻 Tech Stack
 
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,solidity" />
-</p>
-
-## Systems & Tools
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,docker,git,cmake,nodejs,react" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,solidity,c" />
 </p>
 
-## Areas of Interest
+### Systems & Tools
 
-- Systems Programming
-- Operating Systems
-- Networking
-- Backend Engineering
-- Distributed Systems
-- Performance Optimization
-- Linux Internals
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,cmake,nodejs,react,vscode,bash" />
+</p>
+
+### Areas of Interest
+
+- ⚡ Systems Programming
+- 🖥 Operating Systems
+- 🌐 Networking
+- 🚀 Backend Engineering
+- 📦 Distributed Systems
+- 📈 Performance Optimization
+- 🔬 Linux Internals
+- 💹 Low-Latency Systems
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shivfun99&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivfun99&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivfun99&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
 
-# 📊 Coding Profiles
+# 🏅 Coding Profiles
 
-<p align="left">
+<p align="center">
 
-🏆 Codeforces — Specialist (1525)
+<a href="https://codeforces.com/profile/Shiv3K">
+<img src="https://img.shields.io/badge/Codeforces-Specialist-blue?style=for-the-badge&logo=codeforces"/>
+</a>
 
-⭐ CodeChef — 4★
-
-💻 500+ DSA Problems Solved
+<a href="https://www.codechef.com/users/">
+<img src="https://img.shields.io/badge/CodeChef-4★-brown?style=for-the-badge&logo=codechef"/>
+</a>
 
 </p>
+
+### Highlights
+
+- 🟦 Codeforces Specialist (1525)
+- ⭐ CodeChef 4★ (1845)
+- 💯 500+ DSA Problems
+- 🏆 ICPC Huawei Winter Challenge 2025 — Rank 819 / 36,000+
 
 ---
 
@@ -230,32 +273,50 @@ Implemented:
 When I'm not building projects, you'll probably find me:
 
 - 🏆 Solving Codeforces contests
-- 📚 Reading about operating systems
-- 🌐 Learning networking
-- ⚡ Exploring low-latency trading systems
-- 🔬 Understanding large-scale backend systems
-- 🔧 Breaking things just to understand how they work
+- 📚 Reading about Operating Systems
+- 🌐 Learning Networking
+- ⚡ Exploring Low-Latency Trading Systems
+- 🔬 Understanding Large-Scale Backend Systems
+- 🔧 Breaking things and figuring out why they broke
 
 ---
 
-# 🤝 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/Shivfun99">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/shiv-kumar-mishra-75630427a">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
+# 📈 Visitor Count
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Shivfun99&style=for-the-badge&color=blue"/>
+</p>
+
+---
+
+# 💭 Philosophy
+
+> **"Optimize what matters. Understand how it works. Then build it better."**
+
 <p align="center">
 
-### "Optimize what matters. Understand how it works. Then build it better."
+### Thanks for visiting! ⭐
+
+If you like my work, consider giving a ⭐ to my repositories.
 
 </p>
