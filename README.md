@@ -1,159 +1,261 @@
-# Hi, I'm Shiv Kumar Mishra 👋
+<!-- Banner -->
+<p align="center">
+  <img src="assets/profile-ascii.png" alt="ASCII Banner" width="100%">
+</p>
 
-I'm a Computer Science student at VIT-AP who enjoys building things that are fast, efficient, and technically challenging.
+<h1 align="center">Hi 👋, I'm Shiv Kumar Mishra</h1>
 
-Most of my time goes into three areas:
+<h3 align="center">
+Computer Science Student • Systems Programmer • Competitive Programmer • Performance Engineering Enthusiast
+</h3>
 
-* Competitive Programming
-* Systems Programming
-* Performance Engineering
-
-I love understanding how software works beneath the surface — from memory management and operating systems to low-latency packet processing and backend infrastructure.
-
----
-
-## What I'm Currently Working On
-
-⚡ Building systems projects in C++ and Linux
-
-📚 Learning more about operating systems, networking, distributed systems, and performance optimization
-
-🏆 Preparing for ICPC, coding contests, and software engineering interviews
-
-🚀 Exploring low-latency systems inspired by HFT infrastructure
+<p align="center">
+I enjoy building software that is <b>fast</b>, <b>efficient</b>, and technically challenging.
+</p>
 
 ---
 
-## Competitive Programming
+## 🚀 About Me
 
-I started competitive programming out of curiosity and quickly got addicted to the problem-solving process.
+I'm a Computer Science student at **VIT-AP** passionate about understanding software beneath the surface.
 
-**Highlights**
+Most of my time goes into:
 
-* Codeforces Specialist (Max Rating: 1525)
-* CodeChef 4★ (Max Rating: 1845)
-* ICPC Huawei Winter Challenge 2025 — Rank 819 / 36,000+
-* 500+ DSA problems solved across platforms
+- ⚡ Systems Programming
+- 🏆 Competitive Programming
+- 🚀 Performance Engineering
 
-Some of my favorite topics are:
+I enjoy exploring:
 
-* Dynamic Programming
-* Graph Algorithms
-* Trees
-* Number Theory
-* Greedy Optimization
-
----
-
-## Projects I'm Proud Of
-
-### ⚡ Memopt++
-
-An adaptive Linux memory governor written in C++.
-
-Instead of waiting for the system to run out of memory, Memopt++ proactively manages memory pressure using:
-
-* cgroups v2
-* ZRAM compression
-* KSM deduplication
-
-The goal is simple: keep Linux systems responsive under heavy workloads.
-
-**Tech:** C++17, Linux, System Programming, Memory Management
+- Memory Management
+- Operating Systems
+- Linux Internals
+- Low-Latency Networking
+- Backend Infrastructure
+- Distributed Systems
 
 ---
 
-### 📈 PulseBook
+## 🔥 Currently Working On
 
-A C++20 low-latency trading packet processor inspired by real trading system architectures.
-
-It processes binary market-data packets, updates an in-memory L2 order book, runs trading logic, performs risk checks, and generates outbound order packets through DPDK-style networking paths.
-
-What I learned while building it:
-
-* DPDK fundamentals
-* Packet processing
-* Order book design
-* Latency-aware engineering
-* Performance benchmarking
-
-Verified application-side latency benchmarks reached sub-microsecond levels in controlled environments.
-
-**Tech:** C++20, DPDK, Linux Networking, Performance Engineering
+- ⚡ Building systems projects in **Modern C++ & Linux**
+- 📚 Learning Operating Systems, Networking, Distributed Systems and Performance Engineering
+- 🏆 Preparing for **ICPC**, Codeforces contests and Software Engineering interviews
+- 🚀 Exploring **low-latency architectures** inspired by HFT systems
 
 ---
 
-### 🧠 AI Doctor
+# 🏆 Competitive Programming
 
-A multimodal AI assistant capable of processing medical images, text queries, and voice interactions.
+I started competitive programming out of curiosity and quickly became addicted to solving problems.
 
-Built to explore the intersection of Computer Vision, NLP, and real-time AI systems.
+### Highlights
 
-**Tech:** Python, Machine Learning, Computer Vision, NLP
+- 🟦 Codeforces Specialist (**Max Rating: 1525**)
+- ⭐ CodeChef 4★ (**Max Rating: 1845**)
+- 🏅 ICPC Huawei Winter Challenge 2025
+  - Rank **819 / 36,000+**
+- ✅ Solved **500+ DSA problems**
 
----
+### Favorite Topics
 
-### 🌐 GSoC GitHub Finder
-
-A Chrome Extension that helps contributors quickly discover GitHub repositories for open-source organizations participating in Google Summer of Code.
-
-Reduced repository discovery time significantly by automating the search process.
-
-**Tech:** JavaScript, Chrome APIs, DOM Manipulation
-
----
-
-### 🔐 ZK Private Share Verifier
-
-A privacy-focused application built using zero-knowledge proofs.
-
-Implemented zk-SNARK circuits and on-chain verification to explore privacy-preserving blockchain systems.
-
-**Tech:** Solidity, Circom, React, Node.js
+- Dynamic Programming
+- Graph Algorithms
+- Trees
+- Number Theory
+- Greedy Algorithms
 
 ---
 
-## Technologies I Enjoy
+# 🚀 Featured Projects
 
-**Languages**
+## ⚡ Memopt++
 
-C++, Python, JavaScript, Solidity
+Adaptive Linux Memory Governor written in C++.
 
-**Areas**
+Instead of waiting until memory is exhausted, Memopt++ proactively reduces memory pressure using:
 
-* Systems Programming
-* Operating Systems
-* Networking
-* Backend Engineering
-* Distributed Systems
-* Performance Optimization
+- cgroups v2
+- ZRAM Compression
+- KSM Deduplication
 
-**Tools**
+### Tech
 
-Linux, Git, Docker, CMake, DPDK, Node.js, React
+`C++17` • `Linux` • `Memory Management` • `System Programming`
 
 ---
 
-## Beyond Coding
+## 📈 PulseBook
+
+A **C++20 low-latency trading packet processor** inspired by modern exchange architectures.
+
+Features:
+
+- Binary market data packet parsing
+- L2 Order Book
+- Trading Signal Engine
+- Risk Checks
+- Order Generation
+- DPDK-style networking pipeline
+- Performance benchmarking
+
+### What I Learned
+
+- DPDK Fundamentals
+- Packet Processing
+- Order Book Design
+- Latency-aware Engineering
+- Performance Benchmarking
+
+Verified **sub-microsecond application-side latency** in controlled environments.
+
+### Tech
+
+`C++20` • `Linux` • `DPDK` • `Networking`
+
+---
+
+## 🧠 AI Doctor
+
+A multimodal AI assistant capable of processing:
+
+- 🖼 Medical Images
+- 💬 Text Queries
+- 🎤 Voice Input
+
+Built to explore the intersection of:
+
+- Computer Vision
+- NLP
+- Real-time AI Systems
+
+### Tech
+
+`Python` • `Machine Learning` • `Computer Vision` • `NLP`
+
+---
+
+## 🌐 GSoC GitHub Finder
+
+Chrome Extension that helps contributors quickly discover GitHub repositories of organizations participating in Google Summer of Code.
+
+### Features
+
+- Faster repository discovery
+- Automated GitHub search
+- Improved contributor workflow
+
+### Tech
+
+`JavaScript` • `Chrome APIs` • `DOM`
+
+---
+
+## 🔐 ZK Private Share Verifier
+
+Privacy-preserving application using Zero-Knowledge Proofs.
+
+Implemented:
+
+- zk-SNARK Circuits
+- On-chain Verification
+- Privacy-focused Architecture
+
+### Tech
+
+`Solidity` • `Circom` • `React` • `Node.js`
+
+---
+
+# 💻 Technologies
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,solidity" />
+</p>
+
+## Systems & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,cmake,nodejs,react" />
+</p>
+
+## Areas of Interest
+
+- Systems Programming
+- Operating Systems
+- Networking
+- Backend Engineering
+- Distributed Systems
+- Performance Optimization
+- Linux Internals
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shivfun99&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivfun99&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivfun99&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Coding Profiles
+
+<p align="left">
+
+🏆 Codeforces — Specialist (1525)
+
+⭐ CodeChef — 4★
+
+💻 500+ DSA Problems Solved
+
+</p>
+
+---
+
+# 🌱 Beyond Coding
 
 When I'm not building projects, you'll probably find me:
 
-* Solving Codeforces contests
-* Reading about operating systems and networking
-* Exploring low-latency trading systems
-* Learning how large-scale backend systems work
-* Breaking things and figuring out why they broke
+- 🏆 Solving Codeforces contests
+- 📚 Reading about operating systems
+- 🌐 Learning networking
+- ⚡ Exploring low-latency trading systems
+- 🔬 Understanding large-scale backend systems
+- 🔧 Breaking things just to understand how they work
 
 ---
 
-## Connect With Me
+# 🤝 Connect With Me
 
-💼 LinkedIn: linkedin.com/in/shiv-kumar-mishra-75630427a
+<p align="left">
 
-💻 GitHub: github.com/Shivfun99
+<a href="https://github.com/Shivfun99">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-📫 Always open to discussions about systems, performance engineering, open source, and interesting projects.
+<a href="https://linkedin.com/in/shiv-kumar-mishra-75630427a">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
 
 ---
 
-> "Optimize what matters. Understand how it works. Then build it better."
+<p align="center">
+
+### "Optimize what matters. Understand how it works. Then build it better."
+
+</p>
