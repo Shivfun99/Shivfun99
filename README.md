@@ -1,261 +1,134 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Shiv Kumar Mishra</h1>
+# Hi, I'm Shiv Kumar Mishra 👋
 
-<h3 align="center">
-Computer Science Student • Systems Programmer • Competitive Programmer • Performance Engineering Enthusiast
-</h3>
+### Systems Programmer · Competitive Programmer · Performance Engineering Enthusiast
+
+*I build software that's fast, low-level, and doesn't apologize for being hard to write.*
+
+</div>
+
+---
+
+### ⚡ About Me
+
+CS student at **VIT-AP**, obsessed with what's happening underneath the abstraction layer.
+
+```text
+while (curious) {
+    explore(memory_management, operating_systems, linux_internals);
+    explore(low_latency_networking, distributed_systems, backend_infra);
+}
+```
+
+- 🏗️ Building systems software in Modern C++ on Linux
+- 📚 Studying OS internals, networking, and distributed systems
+- 🏆 Grinding ICPC / Codeforces, prepping for SWE interviews
+- 🚀 Reverse-engineering low-latency architecture patterns from HFT systems
+
+---
+
+### 🏆 Competitive Programming
+
+| Platform | Rating | Badge |
+|---|---|---|
+| Codeforces | **1525** (Specialist) | 🟦 |
+| CodeChef | **1845** (4★) | ⭐ |
+| ICPC Huawei Winter Challenge 2025 | **Rank 819 / 36,000+** | 🏅 |
+| Problems Solved | **500+** | 💯 |
+
+**Favorite areas:** Dynamic Programming · Graph Algorithms · Trees · Number Theory · Greedy
+
+---
+
+### 🚀 Featured Project — Pulse-Order
+
+**A C++20 low-latency trading packet processor**, built to simulate parts of a modern exchange's infra: binary market data parsing, an L2 order book, a matching/signal engine, risk checks, and a DPDK-style packet processing pipeline — with real performance benchmarking behind it.
+
+<div align="center">
+<img src="https://img.shields.io/badge/⭐_Stars-111-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🍴_Forks-6-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"/>
+</div>
+
+**What makes this one worth mentioning:** I started this with zero finance background, just curiosity about HFT infrastructure. After sharing progress online, it picked up 111★ on GitHub and caught the attention of engineers in the low-latency/quant trading space — including someone at **IMC Trading** who reached out directly to say the project stood out to them. Not bad for a side project built while also grinding Codeforces.
+
+Verified **sub-microsecond application-side latency** in controlled benchmarks.
+
+**Tech:** `C++20` `Linux` `DPDK` `Networking` `Order Book Design`
+
+**Repo:** [github.com/Shivfun99/Pulse-Order](https://github.com/Shivfun99/Pulse-Order)
+
+---
+
+### 🧰 More Projects
+
+<details>
+<summary><b>⚡ Memopt++</b> — Adaptive Linux Memory Governor</summary>
+<br>
+
+Proactively relieves Linux memory pressure before OOM hits, using cgroups v2, ZRAM compression, and KSM deduplication.
+
+`C++17` `Linux` `Memory Management` `Systems Programming`
+</details>
+
+<details>
+<summary><b>🧠 AI Doctor</b> — Multimodal medical assistant</summary>
+<br>
+
+Processes medical images, text queries, and voice input — built to explore the overlap of CV, NLP, and real-time AI systems.
+
+`Python` `Machine Learning` `Computer Vision` `NLP`
+</details>
+
+<details>
+<summary><b>🌐 GSoC GitHub Finder</b> — Chrome extension</summary>
+<br>
+
+Helps contributors quickly discover GitHub repos of orgs participating in Google Summer of Code.
+
+`JavaScript` `Chrome APIs` `DOM Manipulation`
+</details>
+
+<details>
+<summary><b>🔐 ZK Private Share Verifier</b> — Zero-knowledge privacy app</summary>
+<br>
+
+zk-SNARK circuits with on-chain verification for privacy-preserving data sharing.
+
+`Solidity` `Circom` `React` `Node.js`
+</details>
+
+---
+
+### 💻 Tech Stack
 
 <p align="center">
-I enjoy building software that is fast, efficient, and technically challenging.
+<img src="https://skillicons.dev/icons?i=cpp,python,js,solidity,c,linux,docker,git,cmake,nodejs,react,vscode,bash"/>
 </p>
 
 ---
 
-# 🚀 About Me
-
-I'm a Computer Science student at **VIT-AP** passionate about understanding how software works beneath the surface.
-
-Most of my time goes into:
-
-- ⚡ Systems Programming
-- 🏆 Competitive Programming
-- 🚀 Performance Engineering
-
-I enjoy exploring:
-
-- Memory Management
-- Operating Systems
-- Linux Internals
-- Low-Latency Networking
-- Distributed Systems
-- Backend Infrastructure
-
----
-
-# 🔥 Currently Working On
-
-- ⚡ Building systems projects in Modern C++ and Linux
-- 📚 Learning Operating Systems, Networking, Distributed Systems and Performance Engineering
-- 🏆 Preparing for ICPC, Codeforces contests and Software Engineering interviews
-- 🚀 Exploring low-latency architectures inspired by HFT systems
-
----
-
-# 🏆 Competitive Programming
-
-I started competitive programming out of curiosity and quickly became addicted to solving problems.
-
-## Highlights
-
-- 🟦 Codeforces Specialist (**Max Rating: 1525**)
-- ⭐ CodeChef 4★ (**Max Rating: 1845**)
-- 🏅 ICPC Huawei Winter Challenge 2025 — **Rank 819 / 36,000+**
-- 💯 Solved **500+ DSA Problems**
-
-### Favorite Topics
-
-- Dynamic Programming
-- Graph Algorithms
-- Trees
-- Number Theory
-- Greedy Algorithms
-
----
-
-# 🚀 Featured Projects
-
-## ⚡ Memopt++
-
-Adaptive Linux Memory Governor written in C++.
-
-Instead of waiting until memory is exhausted, Memopt++ proactively reduces memory pressure using:
-
-- cgroups v2
-- ZRAM Compression
-- KSM Deduplication
-
-**Tech**
-
-`C++17` • `Linux` • `Memory Management` • `System Programming`
-
----
-
-## 📈 PulseBook
-
-A C++20 low-latency trading packet processor inspired by modern exchange architectures.
-
-### Features
-
-- Binary Market Data Parsing
-- L2 Order Book
-- Trading Signal Engine
-- Risk Checks
-- Order Generation
-- DPDK-style Networking Pipeline
-- Performance Benchmarking
-
-### What I Learned
-
-- DPDK Fundamentals
-- Packet Processing
-- Order Book Design
-- Latency-aware Engineering
-- Performance Benchmarking
-
-Verified **sub-microsecond application-side latency** in controlled environments.
-
-**Tech**
-
-`C++20` • `Linux` • `DPDK` • `Networking`
-
----
-## 🧠 AI Doctor
-
-A multimodal AI assistant capable of processing:
-
-- 🖼 Medical Images
-- 💬 Text Queries
-- 🎤 Voice Input
-
-Built to explore the intersection of:
-
-- Computer Vision
-- Natural Language Processing
-- Real-time AI Systems
-
-**Tech**
-
-`Python` • `Machine Learning` • `Computer Vision` • `NLP`
-
----
-
-## 🌐 GSoC GitHub Finder
-
-A Chrome Extension that helps contributors quickly discover GitHub repositories of organizations participating in Google Summer of Code.
-
-### Features
-
-- Faster repository discovery
-- Automated GitHub search
-- Improved contributor workflow
-
-**Tech**
-
-`JavaScript` • `Chrome APIs` • `DOM Manipulation`
-
----
-
-## 🔐 ZK Private Share Verifier
-
-A privacy-focused application built using Zero-Knowledge Proofs.
-
-Implemented:
-
-- zk-SNARK Circuits
-- On-chain Verification
-- Privacy-preserving Architecture
-
-**Tech**
-
-`Solidity` • `Circom` • `React` • `Node.js`
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,solidity,c" />
-</p>
-
-### Systems & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,docker,git,cmake,nodejs,react,vscode,bash" />
-</p>
-
-### Areas of Interest
-
-- ⚡ Systems Programming
-- 🖥 Operating Systems
-- 🌐 Networking
-- 🚀 Backend Engineering
-- 📦 Distributed Systems
-- 📈 Performance Optimization
-- 🔬 Linux Internals
-- 💹 Low-Latency Systems
-
----
-
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shivfun99&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivfun99&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shivfun99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivfun99&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivfun99&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivfun99&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🏅 Coding Profiles
+### 🌐 Connect
 
 <p align="center">
-
-<a href="https://codeforces.com/profile/Shiv3K">
-<img src="https://img.shields.io/badge/Codeforces-Specialist-blue?style=for-the-badge&logo=codeforces"/>
-</a>
-
-<a href="https://www.codechef.com/users/">
-<img src="https://img.shields.io/badge/CodeChef-4★-brown?style=for-the-badge&logo=codechef"/>
-</a>
-
+<a href="https://github.com/Shivfun99"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/Shiv3K"><img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
-### Highlights
-
-- 🟦 Codeforces Specialist (1525)
-- ⭐ CodeChef 4★ (1845)
-- 💯 500+ DSA Problems
-- 🏆 ICPC Huawei Winter Challenge 2025 — Rank 819 / 36,000+
-
----
-
-# 🌱 Beyond Coding
-
-When I'm not building projects, you'll probably find me:
-
-- 🏆 Solving Codeforces contests
-- 📚 Reading about Operating Systems
-- 🌐 Learning Networking
-- ⚡ Exploring Low-Latency Trading Systems
-- 🔬 Understanding Large-Scale Backend Systems
-- 🔧 Breaking things and figuring out why they broke
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Shivfun99">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<!--  -->
-
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 📈 Visitor Count
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Shivfun99&style=for-the-badge&color=blue"/>
@@ -263,14 +136,10 @@ When I'm not building projects, you'll probably find me:
 
 ---
 
-# 💭 Philosophy
+<div align="center">
 
-> **"Optimize what matters. Understand how it works. Then build it better."**
+> *"Optimize what matters. Understand how it works. Then build it better."*
 
-<p align="center">
+**Thanks for stopping by — if any of this is useful to you, a ⭐ goes a long way.**
 
-### Thanks for visiting! ⭐
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-</p>
+</div>
